@@ -22,11 +22,13 @@
     * [قسم الأصناف المطلوبة](overview/aladmn/shashh-tfasyl-altlb/qsm-alasnaf-almtlwbh.md)
     * [قسم فاتورة الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-fatwrh-altlb.md)
     * [قسم خطوات الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md)
-* [Scripts](overview/scripts.md)
+* [Scripts](overview/our-features.md)
 
 ***
 
 * [العميل لم يستقبل رمز التفعيل](alamyl-lm-ystqbl-rmz-altfayl.md)
+* [أول طلب للعميل](awl-tlb-llamyl.md)
+* [عمل Confirm للطلب يدويا](aml-confirm-lltlb-ydwya.md)
 
 ## Product Guides
 
