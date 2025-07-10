@@ -29,3 +29,4 @@
 * [العميل لم يستقبل رمز التفعيل](alamyl-lm-ystqbl-rmz-altfayl.md)
 * [أول طلب للعميل](awl-tlb-llamyl.md)
 * [عمل Confirm للطلب يدويا](aml-confirm-lltlb-ydwya.md)
+* [الوسم - Tags](alwsm-tags.md)
