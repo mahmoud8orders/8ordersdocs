@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 8 Orders Knowledge Base](README.md)
+* [👋 8Orders Knowledge Base](README.md)
 
 ## Overview
 
@@ -21,9 +21,12 @@
     * [قسم إرشادات العميل و حالة الطلب عند التاجر](overview/aladmn/shashh-tfasyl-altlb/qsm-irshadat-alamyl-w-halh-altlb-and-altajr.md)
     * [قسم الأصناف المطلوبة](overview/aladmn/shashh-tfasyl-altlb/qsm-alasnaf-almtlwbh.md)
     * [قسم فاتورة الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-fatwrh-altlb.md)
-    * [قسم الأصناف المطلوبة](overview/aladmn/shashh-tfasyl-altlb/qsm-alasnaf-almtlwbh-1.md)
     * [قسم خطوات الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md)
-* [✨ Our Features](overview/our-features.md)
+* [Scripts](overview/scripts.md)
+
+***
+
+* [العميل لم يستقبل رمز التفعيل](alamyl-lm-ystqbl-rmz-altfayl.md)
 
 ## Product Guides
 
