@@ -1,12 +1,12 @@
 ---
 description: 'Created By QA Team - Property of Hadaf Solutions - Version: 1.0'
-cover: .gitbook/assets/image.webp
-coverY: 0
+cover: .gitbook/assets/Logo.png
+coverY: -4.005580282106791
 layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 👋 8 Orders Knowledge Base
+# 👋 8Orders Knowledge Base
 
 ## عن 8Orders
 
