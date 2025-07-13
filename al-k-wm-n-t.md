@@ -10,7 +10,7 @@ icon: message-exclamation
 
 <h3 align="right">إزاي نكتب كومنت علي الطلب؟</h3>
 
-<p align="right">نفتح شاشة تفاصيل الطلب.<br>مكان كتابة الكومنت.<br>نضغط هنا عشان نضيف الكومنت.<br>و نضغط هنا عشان نشوف اي كومنت مكتوب علي الطلب</p>
+<p align="right">نفتح شاشة تفاصيل الطلب.<br>مكان كتابة الكومنت -1 .<br>نضغط هنا عشان نضيف الكومنت -2.<br>و نضغط هنا عشان نشوف اي كومنت مكتوب علي الطلب -3 </p>
 
 <figure><img src=".gitbook/assets/Comment.jpg" alt=""><figcaption></figcaption></figure>
 
