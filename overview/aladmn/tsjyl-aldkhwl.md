@@ -5,12 +5,17 @@ icon: right-to-bracket
 
 # تسجيل الدخول
 
-1. يتم الدخول علي رابط الأدمن[https://adminnew.8orders.com](https://adminnew.8orders.com/)
-2. يتم الضغط علي Login (صورة 1)
-3. بعد الضغط تظهر نافذة إدخال اسم المستخدم و كلمة السر - صورة 2
-4. يتم إدخال الإيميل الخاص بك في خانة الusername
-5. يتم إدخال كلمة المرور في خانة Password
-6. و يتم الضغط علي Login
+<p align="right">يتم الدخول علي الرابط: <a href="https://adminnew.8orders.com/">https://adminnew.8orders.com/</a></p>
+
+<p align="right">يتم الضغط علي Login (صورة 1)</p>
+
+<p align="right">بعد الضغط تظهر نافذة إدخال اسم المستخدم و كلمة السر (صورة 2)</p>
+
+<p align="right">يتم إدخال الإيميل الخاص بك في خانة الusername</p>
+
+<p align="right">يتم إدخال كلمة المرور في خانة Password</p>
+
+<p align="right">و يتم الضغط علي Login</p>
 
 <figure><img src="../../.gitbook/assets/Login.jpg" alt=""><figcaption><p>صورة 1</p></figcaption></figure>
 
