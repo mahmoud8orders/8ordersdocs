@@ -40,3 +40,6 @@
     * [جودة الطلب](altawydhat/altawydhat-fy-halh-altlb-mn-mtaam/jwdh-altlb.md)
     * [طلب خطأ](altawydhat/altawydhat-fy-halh-altlb-mn-mtaam/tlb-khta.md)
     * [أسباب اخرى](altawydhat/altawydhat-fy-halh-altlb-mn-mtaam/asbab-akhra.md)
+* [عناوين التجار](anawyn-altjar/README.md)
+  * [الغردقة](anawyn-altjar/alghrdqh.md)
+  * [أسيوط](anawyn-altjar/asywt.md)
