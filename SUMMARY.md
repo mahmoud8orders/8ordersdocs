@@ -8,7 +8,7 @@
   * [تسجيل الدخول](overview/aladmn/tsjyl-aldkhwl.md)
   * [الصفحة الرئيسية](overview/aladmn/alsfhh-alreysyh.md)
   * [شاشة الطلبات](overview/aladmn/shashh-altlbat.md)
-  * [شاشة الطلبات – مرحلة Pending](overview/aladmn/shashh-altlbat-mrhlh-pending.md)
+  * [Pendingشاشة الطلبات – مرحلة](overview/aladmn/pendingshashh-altlbat-mrhlh.md)
   * [شاشة الطلبات – مرحلة Rest Pending](overview/aladmn/shashh-altlbat-mrhlh-rest-pending.md)
   * [شاشة الطلبات – مرحلة Confirm](overview/aladmn/shashh-altlbat-mrhlh-confirm/README.md)
     * [تعيين مندوب](overview/aladmn/shashh-altlbat-mrhlh-confirm/tayyn-mndwb.md)
@@ -28,7 +28,7 @@
 
 * [العميل لم يستقبل رمز التفعيل](alamyl-lm-ystqbl-rmz-altfayl.md)
 * [أول طلب للعميل](awl-tlb-llamyl.md)
-* [عمل Confirm للطلب يدويا](aml-confirm-lltlb-ydwya.md)
+* [عمل كونيرم للطلب يدويا](aml-kwnyrm-lltlb-ydwya.md)
 * [الوسم - Tags](alwsm-tags.md)
 * [طلب أكبر من 1000 جنيه](tlb-akbr-mn-1000-jnyh.md)
 * [🍮 الميـجــابـــون](almy-j-ab-wn.md)
