@@ -28,7 +28,7 @@
 
 * [العميل لم يستقبل رمز التفعيل](alamyl-lm-ystqbl-rmz-altfayl.md)
 * [أول طلب للعميل](awl-tlb-llamyl.md)
-* [عمل كونيرم للطلب يدويا](aml-kwnyrm-lltlb-ydwya.md)
+* [عمل كونفيرم للطلب يدويا](aml-kwnfyrm-lltlb-ydwya.md)
 * [Tags - الوسم](tags-alwsm.md)
 * [طلب أكبر من 1000 جنيه](tlb-akbr-mn-1000-jnyh.md)
 * [➕ طلب مجمع](tlb-mjma.md)
