@@ -17,11 +17,11 @@
 <p align="right">الخط الأزرق هو مسار المندوب من المتجر للعميل حيث</p>
 
 {% hint style="warning" %}
-<p align="right"> Origin هي موقع المتجر </p>
+<p align="right">هي موقع المتجر Origin</p>
 {% endhint %}
 
 {% hint style="warning" %}
-<p align="right"> Destination هي موقع العميل</p>
+<p align="right">هي موقع العميل Destination</p>
 {% endhint %}
 
 {% hint style="warning" %}
