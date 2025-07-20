@@ -9,7 +9,7 @@
   * [الصفحة الرئيسية](overview/aladmn/alsfhh-alreysyh.md)
   * [شاشة الطلبات](overview/aladmn/shashh-altlbat.md)
   * [Pending شاشة الطلبات – مرحلة](overview/aladmn/pending-shashh-altlbat-mrhlh.md)
-  * [شاشة الطلبات – مرحلة Rest Pending](overview/aladmn/shashh-altlbat-mrhlh-rest-pending.md)
+  * [Rest Pending شاشة الطلبات – مرحلة](overview/aladmn/rest-pending-shashh-altlbat-mrhlh.md)
   * [شاشة الطلبات – مرحلة Confirm](overview/aladmn/shashh-altlbat-mrhlh-confirm/README.md)
     * [تعيين مندوب](overview/aladmn/shashh-altlbat-mrhlh-confirm/tayyn-mndwb.md)
   * [شاشة الطلبات – مرحلة Assign](overview/aladmn/shashh-altlbat-mrhlh-assign.md)
