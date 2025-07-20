@@ -27,3 +27,12 @@ icon: sack-dollar
 <p align="right">بسيطة بنضغط علي Rest Pending من شاشة تفاصيل الطلب بعد الخطوات اللي فاتت صورة 3.</p>
 
 <figure><img src=".gitbook/assets/Big Order3.jpg" alt=""><figcaption></figcaption></figure>
+
+<h3 align="right">إزاي ألغي الطلب؟</h3>
+
+<p align="right">بسيطة بنضغط علي Reject و نختار سبب إلغاء الطلب</p>
+
+<figure><img src=".gitbook/assets/Reject1.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/rejected 2.png" alt=""><figcaption></figcaption></figure>
+
