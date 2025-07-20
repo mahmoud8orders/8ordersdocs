@@ -8,15 +8,25 @@
 
 #### علي الخريطة
 
-<p align="right"> العلامة الخضراء تعني المناديب العاملين و ليس معهم طلب Online &#x26; Free</p>
+<p align="right">Online &#x26; Free العلامة الخضراء تعني المناديب العاملين و ليس معهم طلب </p>
 
-<p align="right"> العلامة الصفراء تعني المناديب العاملين و معهم طلب Busy</p>
+<p align="right">Busy العلامة الصفراء تعني المناديب العاملين و معهم طلب </p>
 
-<p align="right"> العلامة الحمراء تعني المناديب الغير عاملين Offline</p>
+<p align="right">Offline العلامة الحمراء تعني المناديب الغير عاملين </p>
 
-<p align="right">الخط الأزرق هو مسار المندوب من المتجر للعميل حيث Origin هي موقع المتجر و Destination هي موقع العميل</p>
+<p align="right">الخط الأزرق هو مسار المندوب من المتجر للعميل حيث</p>
 
+{% hint style="warning" %}
+<p align="right"> Origin هي موقع المتجر </p>
+{% endhint %}
+
+{% hint style="warning" %}
+<p align="right"> Destination هي موقع العميل</p>
+{% endhint %}
+
+{% hint style="warning" %}
 <p align="right">يتم تحديث مواقع المناديب كل 30 ثانية</p>
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Assign.jpg" alt=""><figcaption></figcaption></figure>
 
