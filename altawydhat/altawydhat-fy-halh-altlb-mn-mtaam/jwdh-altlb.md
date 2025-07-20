@@ -37,3 +37,25 @@ icon: medal
 {% hint style="warning" %}
 <p align="center">يتم تحميل التعويض علي المتسبب في المشكلة سواء المطعم أو المندوب أو الشركة</p>
 {% endhint %}
+
+<h3 align="center">البيانات المطلوبة في التكت</h3>
+
+{% hint style="success" %}
+<p align="center"><strong>Order ID</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<h4 align="center">Order Date</h4>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Compensation Amount</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Compensation Reason</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Item Name</strong></p>
+{% endhint %}

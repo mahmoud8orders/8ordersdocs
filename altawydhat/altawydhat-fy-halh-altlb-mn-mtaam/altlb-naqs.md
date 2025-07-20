@@ -9,3 +9,25 @@
 <p align="right">في حالة طلب الأصناف بيتم عمل توصيلة خارجية بدون تحميل علي العميل و يتم عمل تكت Bitrix وكتابة التفاصيل كاملة و تنزيل قيمة التوصيل علي المطعم</p>
 
 <figure><img src="../../.gitbook/assets/House searching-cuate.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<h3 align="center">البيانات المطلوبة في التكت</h3>
+
+{% hint style="success" %}
+<p align="center"><strong>Order ID</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<h4 align="center">Order Date</h4>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Compensation Amount</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Compensation Reason</strong></p>
+{% endhint %}
+
+{% hint style="success" %}
+<p align="center"><strong>Item Name</strong></p>
+{% endhint %}

@@ -2,7 +2,7 @@
 icon: clipboard-check
 ---
 
-# عمل Confirm للطلب يدويا
+# عمل كونيرم للطلب يدويا
 
 {% hint style="warning" %}
 <p align="right">في البداية لازم نعرف ان اغلب المتاجر بتقبل الطلب من عندهم عن طريق الموبايل أو الويب أبليكيشن ماعادا تشيليز و الجزارة و الدواجن و الطيور.</p>
@@ -12,6 +12,6 @@ icon: clipboard-check
 
 ### طيب إزاي بعمل كونفيرم من خلالي؟
 
-<p align="right">بيتم الدخول علي شاشة تفاصيل الطلب.<br>1- وضع علامة علي أصناف الطلب في حالة إتاحتها CheckMark.<br>2- الضغط علي Confirm.</p>
+<p align="right">بيتم الدخول علي شاشة تفاصيل الطلب.<br>1-CheckMark وضع علامة علي أصناف الطلب في حالة إتاحتها .<br>2-Confirm الضغط علي .</p>
 
 <figure><img src=".gitbook/assets/Manual confirm.jpg" alt=""><figcaption></figcaption></figure>

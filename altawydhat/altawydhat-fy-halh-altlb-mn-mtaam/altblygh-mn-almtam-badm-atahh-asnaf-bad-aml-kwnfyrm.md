@@ -33,6 +33,10 @@ icon: hand
 {% endhint %}
 
 {% hint style="success" %}
+<h4 align="center">Order Date</h4>
+{% endhint %}
+
+{% hint style="success" %}
 <p align="center"><strong>Compensation Amount</strong></p>
 {% endhint %}
 
