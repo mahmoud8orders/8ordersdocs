@@ -22,6 +22,7 @@
     * [قسم الأصناف المطلوبة](overview/aladmn/shashh-tfasyl-altlb/qsm-alasnaf-almtlwbh.md)
     * [قسم فاتورة الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-fatwrh-altlb.md)
     * [قسم خطوات الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md)
+  * [🚴‍♂️ عمل توصيلة خارجية](overview/aladmn/aml-twsylh-kharjyh.md)
 * [Scripts](overview/our-features.md)
 
 ***
