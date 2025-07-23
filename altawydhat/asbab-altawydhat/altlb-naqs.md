@@ -8,6 +8,12 @@
 
 <p align="right">في حالة طلب الأصناف بيتم عمل توصيلة خارجية بدون تحميل علي العميل و يتم عمل تكت Bitrix وكتابة التفاصيل كاملة و تنزيل قيمة التوصيل علي المطعم</p>
 
+<p align="right"></p>
+
+{% hint style="success" %}
+<p align="right">ماركت الحياة بيتواصل مع العملاء لتوضيح الأصناف الناقصة و البدائل و فرق الأسعار و في حالة وجود فرق سعر يتم تبليغنا لتعديل السعر و الأصناف</p>
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/House searching-cuate.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <h3 align="center">البيانات المطلوبة في التكت</h3>
@@ -17,7 +23,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-<h4 align="center">Order Date</h4>
+<p align="center"><strong>Order Date</strong></p>
 {% endhint %}
 
 {% hint style="success" %}

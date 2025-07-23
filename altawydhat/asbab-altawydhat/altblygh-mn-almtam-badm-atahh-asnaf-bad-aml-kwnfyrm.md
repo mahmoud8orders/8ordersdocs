@@ -24,6 +24,10 @@ icon: hand
 
 <p align="right">حابب يلغي الطلب (يتم إلغاء الطلب وفي حالة الدفع أونلاين بيتم إرجاع المبلغ علي الحساب أو المحفظة بناء علي طلب العميل و السبب يكون NA Item )</p>
 
+{% hint style="success" %}
+<p align="right">ماركت الحياة بيتواصل مع العملاء لتوضيح الأصناف الناقصة و البدائل و فرق الأسعار و في حالة وجود فرق سعر يتم تبليغنا لتعديل السعر و الأصناف</p>
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/NA Item 1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <h3 align="center">البيانات المطلوبة في التكت</h3>
@@ -33,7 +37,7 @@ icon: hand
 {% endhint %}
 
 {% hint style="success" %}
-<h4 align="center">Order Date</h4>
+<p align="center"><strong>Order Date</strong></p>
 {% endhint %}
 
 {% hint style="success" %}

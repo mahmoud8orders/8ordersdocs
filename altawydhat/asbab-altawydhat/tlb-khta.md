@@ -12,7 +12,7 @@ icon: xmark-large
 
 <p align="right">في حالة طلب العميل استبدال الطلب يتم الطلب من العميل الأحتفاظ بالطلب بحالته</p>
 
-<p align="right">يتم عمل توصيلتين خارجيتين واحدة من المعطم للعميل و الثانية من العميل للمطعم</p>
+<p align="right">يتم عمل توصيلتين خارجيتين واحدة من التاجر للعميل و الثانية من العميل للمطعم</p>
 
 <p align="right">يتم تحميل التوصيلتين علي المطعم</p>
 
@@ -25,7 +25,7 @@ icon: xmark-large
 {% endhint %}
 
 {% hint style="success" %}
-<h4 align="center">Order Date</h4>
+<p align="center"><strong>Order Date</strong></p>
 {% endhint %}
 
 {% hint style="success" %}
