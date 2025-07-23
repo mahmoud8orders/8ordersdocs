@@ -46,3 +46,6 @@
 * [عناوين التجار](anawyn-altjar/README.md)
   * [الغردقة](anawyn-altjar/alghrdqh.md)
   * [أسيوط](anawyn-altjar/asywt.md)
+* [🕑 البروسيس تايم](albrwsys-taym.md)
+* [🥕 تجهيز الخضار](tjhyz-alkhdhar.md)
+* [Other Process and Info](other-process-and-info.md)
