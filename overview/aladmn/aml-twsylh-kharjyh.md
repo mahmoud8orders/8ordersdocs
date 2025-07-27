@@ -22,15 +22,15 @@
 
 <p align="right">Search بعدين هتظهرلنا الشاشة دي هنكتب رقم العميل و نضغط </p>
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">OK لو العميل مسجل أكتر من عنوان نختار العنوان اللي عليه الطلب و نضغط </p>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">Normal Order بعد كدة نختار </p>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">جـ - يتم تحديد مدينة العميل</p>
 
@@ -50,13 +50,13 @@
 
 <p align="right">Save تظهر عندنا الشاشة دي و نضغط </p>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">بعد عمل كل هذه الخطوات بنفتح شاشة تفاصيل الطلب و نضيف كومنت للمندوب نوضحله هيعمل أيه بالضبط</p>
 
 <p align="right">نكتب الكومنت هنا </p>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <h3 align="center">كدة تكون عملت أول توصيلة خارجية ليك</h3>
 

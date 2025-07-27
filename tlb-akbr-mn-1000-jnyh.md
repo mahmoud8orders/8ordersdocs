@@ -45,7 +45,7 @@ icon: sack-dollar
 {% endhint %}
 
 {% hint style="danger" %}
-<h4 align="center">لا يتم إختيار سبب بناءا علي رغبة سيادتكم إلا في حالة طلب العميل إلغاء الطلب بدون سبب</h4>
+<p align="center"><strong>لا يتم إختيار سبب بناءا علي رغبة سيادتكم إلا في حالة طلب العميل إلغاء الطلب بدون سبب</strong></p>
 {% endhint %}
 
 <table><thead><tr><th width="361.9090576171875" align="center">Arabic</th><th width="376.0909423828125" align="center">English</th></tr></thead><tbody><tr><td align="center">وقت اعداد الطلب لا يناسب سيادتكم</td><td align="center">Cooking time is too long</td></tr><tr><td align="center">مشكله في الشبكه</td><td align="center">Network Issue</td></tr><tr><td align="center">لم يتم القبول من جانب المتجر ( Multi Orders )</td><td align="center">Not Accepted via vendor ( Multi Orders )</td></tr><tr><td align="center">لم يتم القبول من جانب المتجر</td><td align="center">Not Accepted via vendor</td></tr><tr><td align="center">لعدم رد سيادتكم علي مكالمه تأكيد الطلب</td><td align="center">Cst isn`t responding for 1st confirmation call</td></tr><tr><td align="center">لعدم رد سيادتكم علي مكالمه تأكيد الطلب</td><td align="center">Cst isn`t responding for confirmation call</td></tr><tr><td align="center">لعدم توافر تفاصيل ملحوظات الطلب</td><td align="center">Unavailable customer request</td></tr><tr><td align="center">لعدم اكتمال عملية الدفع</td><td align="center">Online Payment Canceled</td></tr><tr><td align="center">لأن المتجر المطلوب مغلق الان</td><td align="center">Merchant is Closed</td></tr><tr><td align="center">عدم اتاحه كميات الطلب ( Multi Orders )</td><td align="center">Unavailable Items Quantity ( Multi Orders )</td></tr><tr><td align="center">عدم اتاحه كميات الطلب</td><td align="center">Unavailable Items Quantity</td></tr><tr><td align="center">عدم اتاحه اصناف الطلب</td><td align="center">Unavailable Items</td></tr><tr><td align="center">عدم اتاحه اصناف الطلب</td><td align="center">Unavailable Items ( Multi Order )</td></tr><tr><td align="center">ضغط الطلبات في الوقت الحالي</td><td align="center">Rush Hour</td></tr><tr><td align="center">تيست اوردر</td><td align="center">Test Order</td></tr><tr><td align="center">بناءا علي رغبة سيادتكم</td><td align="center">Due to Customer Request</td></tr><tr><td align="center">اوردر متكرر</td><td align="center">Duplicated Order</td></tr><tr><td align="center">المطعم غير جاهز لاستقبال الطلبات</td><td align="center">Merchant is not ready</td></tr><tr><td align="center">الطقس غير مناسب للتوصيل</td><td align="center">Bad Weather</td></tr></tbody></table>
@@ -61,3 +61,7 @@ icon: sack-dollar
 <h4 align="center">( Multi Orders )</h4>
 
 <p align="center">الأسباب المحتوية علي هذه العبارة متعلقة بالطلبات المجمعة</p>
+
+<h4 align="center">Unavailable Items Quantity</h4>
+
+<p align="center">الصنف موجود ولكن غير متاح بالكمية أو الوزن الذي يطلبه العميل كمثال اوزان الدواجن</p>
