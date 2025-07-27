@@ -25,7 +25,7 @@
   * [🚴‍♂️ عمل توصيلة خارجية](overview/aladmn/aml-twsylh-kharjyh.md)
   * [✏️ تعديل الطلب](overview/aladmn/tadyl-altlb.md)
   * [البيزي و الإند](overview/aladmn/albyzy-w-alind.md)
-* [PayMob  - الباي موب](overview/paymob-albay-mwb.md)
+* [📱 PayMob  - الباي موب](overview/paymob-albay-mwb.md)
 * [Scripts](overview/our-features.md)
 
 ***
@@ -47,7 +47,7 @@
     * [جودة الطلب](altawydhat/asbab-altawydhat/jwdh-altlb.md)
     * [طلب خطأ](altawydhat/asbab-altawydhat/tlb-khta.md)
     * [أسباب اخرى](altawydhat/asbab-altawydhat/asbab-akhra.md)
-    * [إيداع المبلغ في الحساب البنكي](altawydhat/asbab-altawydhat/iydaa-almblgh-fy-alhsab-albnky.md)
+  * [إيداع المبلغ في الحساب البنكي](altawydhat/iydaa-almblgh-fy-alhsab-albnky.md)
 * [عناوين التجار](anawyn-altjar/README.md)
   * [الغردقة](anawyn-altjar/alghrdqh.md)
   * [أسيوط](anawyn-altjar/asywt.md)
