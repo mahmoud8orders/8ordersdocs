@@ -28,6 +28,8 @@
 * [📱 PayMob  - الباي موب](overview/paymob-albay-mwb.md)
 * [📲 تطبيق العميل](overview/ttbyq-alamyl/README.md)
   * [📲 تسجيل حساب و إضافة عنوان](overview/ttbyq-alamyl/tsjyl-hsab-w-idhafh-anwan.md)
+  * [📲 Home Page - الصفحة الرئيسية](overview/ttbyq-alamyl/home-page-alsfhh-alreysyh.md)
+  * [📲 العروض](overview/ttbyq-alamyl/alarwdh.md)
 * [Scripts](overview/our-features.md)
 
 ***
