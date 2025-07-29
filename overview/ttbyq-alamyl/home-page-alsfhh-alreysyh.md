@@ -64,4 +64,4 @@
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p>Footer</p></figcaption></figure>
 
-<p align="right">يحتوي علي تبويبات التطبيق و أقسامه )العروض - الرئيسية - السلة - حسابي(</p>
+<p align="right">يحتوي علي تبويبات التطبيق و أقسامه العروض - الرئيسية - السلة - حسابي</p>
