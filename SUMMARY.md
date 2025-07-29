@@ -31,6 +31,8 @@
   * [📲 Home Page - الصفحة الرئيسية](overview/ttbyq-alamyl/home-page-alsfhh-alreysyh.md)
   * [📲 العروض](overview/ttbyq-alamyl/alarwdh.md)
   * [📲 عمل طلب](overview/ttbyq-alamyl/aml-tlb.md)
+  * [📲 متابعة الطلب](overview/ttbyq-alamyl/mtabah-altlb.md)
+  * [📲 الدعم الفني](overview/ttbyq-alamyl/aldam-alfny.md)
 * [Scripts](overview/our-features.md)
 
 ***
