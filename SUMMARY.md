@@ -25,7 +25,6 @@
   * [🚴‍♂️ عمل توصيلة خارجية](overview/aladmn/aml-twsylh-kharjyh.md)
   * [✏️ تعديل الطلب](overview/aladmn/tadyl-altlb.md)
   * [البيزي و الإند](overview/aladmn/albyzy-w-alind.md)
-* [📱 PayMob  - الباي موب](overview/paymob-albay-mwb.md)
 * [📲 تطبيق العميل](overview/ttbyq-alamyl/README.md)
   * [📲 تسجيل حساب و إضافة عنوان](overview/ttbyq-alamyl/tsjyl-hsab-w-idhafh-anwan.md)
   * [📲 Home Page - الصفحة الرئيسية](overview/ttbyq-alamyl/home-page-alsfhh-alreysyh.md)
@@ -41,7 +40,9 @@
     * [المحفظة](overview/ttbyq-alamyl/shashh-hsaby/almhfzh.md)
     * [🛣️ العناوين](overview/ttbyq-alamyl/shashh-hsaby/alanawyn.md)
     * [نقاطي](overview/ttbyq-alamyl/shashh-hsaby/nqaty.md)
-    * [Page](overview/ttbyq-alamyl/shashh-hsaby/page.md)
+    * [القسائم](overview/ttbyq-alamyl/shashh-hsaby/alqsaem.md)
+    * [تواصل معنا](overview/ttbyq-alamyl/shashh-hsaby/twasl-mana.md)
+* [📱 PayMob  - الباي موب](overview/paymob-albay-mwb.md)
 * [Scripts](overview/our-features.md)
 
 ***
