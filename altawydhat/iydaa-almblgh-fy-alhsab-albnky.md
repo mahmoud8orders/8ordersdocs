@@ -4,10 +4,18 @@ icon: money-check-dollar-pen
 
 # إيداع المبلغ في الحساب البنكي
 
-<p align="center">في حالة كان الدفع أونلاين و طلب العميل إيداع التعويض في الحساب البنكي يتم</p>
+<p align="center">في حالة كان الدفع أونلاين و طلب العميل إيداع التعويض في الحساب البنكي يتم عمل ريفند للعميل من علي النظام</p>
+
+<p align="center">عشان يظهر الأوبشن بتاع ريفند لازم</p>
+
+<p align="center">Rejected الأوردر يكون</p>
+
+<p align="center">Captured تكون عملية الدفع </p>
+
+<p align="center">مع العلم إن السيستم بيرجع المبلغ علي محفظة العميل تلقائي بمجرد إلغاء الطلب</p>
 
 <p align="center">إبلاغ العميل أن الوقت المستغرق لإتمام عملية التحويل من 7 إلي 14 يوم عمل و يتم المتابعة مع البنك الخاص به</p>
 
-<p align="center">يتم عمل تكت بيتركس بكافة التفاصيل لعمل التحويل للعميل</p>
+<p align="center">لو العميل طلب تأكيد علي عمل الريفند يتم إرسال سكرين شوت من عملية الدفع من باي موب</p>
 
-<figure><img src="../.gitbook/assets/Bank refund Bitrix.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
