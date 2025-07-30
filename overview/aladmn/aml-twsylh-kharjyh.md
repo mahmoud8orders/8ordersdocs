@@ -26,37 +26,33 @@
 
 <p align="right">OK لو العميل مسجل أكتر من عنوان نختار العنوان اللي عليه الطلب و نضغط </p>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<p align="right">Normal Order بعد كدة نختار </p>
+<p align="right">Outgoing Delivery بعد كدة نختار </p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<p align="right">جـ - يتم تحديد مدينة العميل</p>
+<p align="right">هتظهر شاشة التوصيلة</p>
 
-<p align="right">د - يتم كتابة خارجي لتظهر المطاعم الخارجية و نختار المكان الخاص بالمنطقة التي طلب منها العميل و يتم الضغط علي السهم اللي جنب اسم المطعم</p>
+<p align="right">أ - هنختار الزون بتاعة المطعم</p>
 
-<p align="right">كمثال العميل طلب من مطعم في الدهار فيتم اختيار مطعم خارجي الدهار</p>
+<p align="right">ب- هنختار المطعم</p>
 
-<figure><img src="../../.gitbook/assets/توصيلة 3.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<p align="right">ج- مكان كتابة الكومنت اللي هيتعمل للمندوب</p>
 
-<p align="right">هـ - يتم الضغط علي كلمة خارجي اللي في المستطيل الرمادي عشان نضيف كمية</p>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/توصيلة 4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<p align="right">د - بعد الخطوات السابقة يظهر قيمة التوصيلة</p>
 
-<p align="right">Save يتم كتابة الكمية أو الضغط علي الأسهم لتحديد الكمية ثم الضغط علي </p>
+<p align="right">Save هـ- يتم الضغط علي </p>
 
-<figure><img src="../../.gitbook/assets/توصيلة 5.jpg" alt="" width="305"><figcaption></figcaption></figure>
+<p align="right"></p>
 
-<p align="right">Save تظهر عندنا الشاشة دي و نضغط </p>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<p align="right">بعد كدة يتم الدخول علي الطلب من شاشة الطلبات و تحميل تعويض بقيمة التوصية و تحميلها علي المتسبب سواء متجر او شركة أو مندوب يمكن مراجعة صفحة <a data-mention href="shashh-tfasyl-altlb/qsm-alijraaat/altawydh.md">altawydh.md</a></p>
 
-<p align="right">بعد عمل كل هذه الخطوات بنفتح شاشة تفاصيل الطلب و نضيف كومنت للمندوب نوضحله هيعمل أيه بالضبط</p>
-
-<p align="right">نكتب الكومنت هنا </p>
-
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">كدة تكون عملت أول توصيلة خارجية ليك</h3>
 
