@@ -18,4 +18,6 @@ icon: money-check-dollar-pen
 
 <p align="center">لو العميل طلب تأكيد علي عمل الريفند يتم إرسال سكرين شوت من عملية الدفع من باي موب</p>
 
+<p align="center">لا يتم عمل تكت بيتركس</p>
+
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
