@@ -28,6 +28,8 @@
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 <h3 align="right">قوارير و كراتين المياه</h3>
 
 <p align="right">عند طلب العميل قوارير مياه 19 لتر او كراتين مياه لازم نعمل حساب إن</p>
