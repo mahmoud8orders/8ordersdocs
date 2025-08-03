@@ -14,17 +14,17 @@
 
 <h2 align="right">الدفع الأونلاين</h2>
 
-<p align="right">الحد الأدني للدفع الأونلاين 40 جنيه</p>
+<p align="right">الحد الأدني لقيمة الطلب عشان العميل يقدر يدفع أونلاين 40 جنيه</p>
 
 <h2 align="right"> روبو كول</h2>
 
 <p align="right">يتم عمل روبو كول و هي مكالمة بشكل تلقائي من النظام للمكان في حالة عدم قبول الطلب خلال فترة البروسيس تايم</p>
 
-<p align="right">و لكن في حالة عدم نجاح المكالمة أو الرقم كان مشغول أو عدم الرد يتم محاولة الأتصال بالمكان مرة واحدة من الموظف قبل إلغاء الطلب</p>
+<p align="right">و لكن في حالة عدم نجاح المكالمة أو الرقم كان مشغول يتم محاولة الأتصال بالمكان مرة واحدة من الموظف قبل إلغاء الطلب</p>
 
-<p align="right">في حالة تم الرد و عدم قبول الطلب يتم إلغاء الطلب من النظام يمكن مراجعة<a data-mention href="tlb-akbr-mn-1000-jnyh.md#izay-alghy-altlb">#izay-alghy-altlb</a> </p>
+<p align="right">في حالة تم الرد و عدم قبول الطلب يتم إلغاء الطلب من النظام يمكن مراجعة <a data-mention href="tlb-akbr-mn-1000-jnyh.md#izay-alghy-altlb">#izay-alghy-altlb</a> </p>
 
-<p align="right">تظهر محاولات الروبو كول و حالة كل محاولة في شاشة تفاصيل الطلب في <a data-mention href="overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md">qsm-khtwat-altlb.md</a></p>
+<p align="right">تظهر محاولات الروبو كول و حالة كل محاولة في شاشة تفاصيل الطلب في  <a data-mention href="overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md">qsm-khtwat-altlb.md</a></p>
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

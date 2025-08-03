@@ -22,7 +22,7 @@
 
 <p align="right">اول صفحة هي صفحة اللوجن بيتم إدخال اليوزر و الباسورد</p>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">View All بعد تسجيل الدخول تظهر الشاشة دي و بنضغط فيها علي </p>
 
