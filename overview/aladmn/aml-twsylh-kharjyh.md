@@ -26,11 +26,11 @@
 
 <p align="right">OK لو العميل مسجل أكتر من عنوان نختار العنوان اللي عليه الطلب و نضغط </p>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">Outgoing Delivery بعد كدة نختار </p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">هتظهر شاشة التوصيلة</p>
 
@@ -40,7 +40,7 @@
 
 <p align="right">ج- مكان كتابة الكومنت اللي هيتعمل للمندوب</p>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">د - بعد الخطوات السابقة يظهر قيمة التوصيلة</p>
 
@@ -48,11 +48,11 @@
 
 <p align="right"></p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">بعد كدة يتم الدخول علي الطلب من شاشة الطلبات و تحميل تعويض بقيمة التوصية و تحميلها علي المتسبب سواء متجر او شركة أو مندوب يمكن مراجعة صفحة <a data-mention href="shashh-tfasyl-altlb/qsm-alijraaat/altawydh.md">altawydh.md</a></p>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">كدة تكون عملت أول توصيلة خارجية ليك</h3>
 

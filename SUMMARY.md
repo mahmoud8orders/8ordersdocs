@@ -55,6 +55,7 @@
 * [Duplicate Order - طلب مكرر](duplicate-order-tlb-mkrr.md)
 * [🟥 Late case - التأخير](late-case-altakhyr.md)
 * [⏳ طلب فيوتشر](tlb-fywtshr.md)
+* [طلب فرق سعر](tlb-frq-sar.md)
 * [عمل كونفيرم للطلب يدويا](aml-kwnfyrm-lltlb-ydwya.md)
 * [الــكــومــنــت](al-k-wm-n-t.md)
 * [Tags - الوسم](tags-alwsm.md)
