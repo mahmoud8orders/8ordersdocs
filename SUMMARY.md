@@ -76,3 +76,4 @@
 * [البيزي و الإند](albyzy-w-alind.md)
 * [🥕 تجهيز الخضار](tjhyz-alkhdhar.md)
 * [Other Process and Info](other-process-and-info.md)
+* [مراجعة الريفيو](mrajah-alryfyw.md)
