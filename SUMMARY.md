@@ -77,3 +77,5 @@
 * [🥕 تجهيز الخضار](tjhyz-alkhdhar.md)
 * [Other Process and Info](other-process-and-info.md)
 * [مراجعة الريفيو](mrajah-alryfyw.md)
+* [Business Documentation](business-documentation/README.md)
+  * [Vendor creation](business-documentation/vendor-creation.md)

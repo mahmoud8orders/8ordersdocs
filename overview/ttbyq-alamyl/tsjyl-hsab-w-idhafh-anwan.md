@@ -6,11 +6,11 @@
 
 <p align="right">بعد تحميل التطبيق تظهر إيقونة التطبيق علي شاشة الهاتف</p>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">عند الضغط عليها لأول مرة تظهر شاشة التطبيق الترحيبية</p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="194"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="194"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="195"><figcaption></figcaption></figure>
 
