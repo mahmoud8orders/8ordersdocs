@@ -22,15 +22,15 @@
 
 <p align="right">اول صفحة هي صفحة اللوجن بيتم إدخال اليوزر و الباسورد</p>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">View All بعد تسجيل الدخول تظهر الشاشة دي و بنضغط فيها علي </p>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">Filters بعد ما الصفة تحمل بنضغط علي </p>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="right">Order ID أ- يتم إدخال رقم الأوردر في خانة </p>
 

@@ -52,19 +52,19 @@ icon: money-bill-1-wave
 
 <p align="right">اختيار المطعم</p>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">إختيار صنف فرق سعر</p>
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 تعديل الكمية لتكون نفس قيمة الطلب يعني لو الطلب ب500 الكمية تكون 500
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">Save بعد كدة نضغط علي </p>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">اخر حاجة ندخل علي شاشة تفاصيل الطلب و نطلع فاتورة الطلب و نبعت منها سكرين شوت للمكان عشان يبعتها للعميل</p>
 

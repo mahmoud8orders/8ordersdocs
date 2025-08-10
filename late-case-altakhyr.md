@@ -1,6 +1,6 @@
 # 🟥 Late case - التأخير
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">في كل مراحل الطلب لو الطلب اتأخر عداد الدقايق لونه بيقلب أحمر</p>
 
