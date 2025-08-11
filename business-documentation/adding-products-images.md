@@ -1,0 +1,2 @@
+# Adding products' images
+
