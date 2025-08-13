@@ -80,5 +80,6 @@
 * [🤵‍♂️ Business Documentation](business-documentation/README.md)
   * [Vendor creation](business-documentation/vendor-creation.md)
   * [Adding Vendor's Menu](business-documentation/adding-vendors-menu.md)
+  * [Adding Options](business-documentation/adding-options.md)
   * [Adding products' images](business-documentation/adding-products-images.md)
   * [Creating Offers](business-documentation/creating-offers.md)
