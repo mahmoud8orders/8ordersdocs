@@ -12,15 +12,15 @@
 
 <p align="right">بعد الضغط علي إضافة المنيو يتم تحويلك لشاشة التحكم الخاصة بالتاجر</p>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">الأفضل أن يتم رفع المنيو عن طريق الضغط علي استيراد عناصر المنيو</p>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">عند الضغط علي تحميل الملف يتم تحميل ملف إكسيل و فيه يتم إضافة اصناف المنيو و الكاتيجوري الخاص بكل صنف بالأسفل الحقول التي يتم ملئها و الملف مرفق</p>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/Menu Items.xlsx" %}
 ملف رفع المنيو

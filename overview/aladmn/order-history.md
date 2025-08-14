@@ -1,6 +1,6 @@
 # Order History
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="262"><figcaption><p>كيفية فتح الهيستوري</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption><p>كيفية فتح الهيستوري</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>فلاتر و حقول الهيستوري</p></figcaption></figure>
 

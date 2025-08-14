@@ -52,15 +52,15 @@ icon: money-bill-1-wave
 
 <p align="right">اختيار المطعم</p>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">إختيار صنف فرق سعر</p>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 تعديل الكمية لتكون نفس قيمة الطلب يعني لو الطلب ب500 الكمية تكون 500
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">Save بعد كدة نضغط علي </p>
 

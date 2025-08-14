@@ -18,17 +18,17 @@
 
 <h3 align="right">شريط العنوان</h3>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>شريط العنوان</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>شريط العنوان</p></figcaption></figure>
 
 <p align="right">شريط العنوان يظهر فيه العنوان الذي سيتم التوصيل عليه</p>
 
 <p align="right">يمكن تغيير العنوان أو إضافة عنوان جديد عند الضغط علي السهم الظاهر علي يسار الشاشة فتظهر قائمة العناوين المسجلة و خيار إضافة عنوان جديد</p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>قائمة العناوين</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>قائمة العناوين</p></figcaption></figure>
 
 <h3 align="right">شريط البحث</h3>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>شريط البحث</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>شريط البحث</p></figcaption></figure>
 
 <p align="right">يمكن البحث عن متجر أو صنف</p>
 

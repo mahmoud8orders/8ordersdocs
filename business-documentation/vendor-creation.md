@@ -6,7 +6,7 @@
 
 <p align="right">Add من شاشة المطاعم يتم الضغط علي </p>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Add New Vendor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Add New Vendor</p></figcaption></figure>
 
 <p align="right">بتظهر معانا شاشة إضافة المطاعم و بيتم إضافة البيانات زي ما موضح في الصور</p>
 

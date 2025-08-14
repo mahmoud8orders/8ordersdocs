@@ -14,19 +14,19 @@
 
 <p align="right">بعد كدة نضغط علي الزائد هنا عشان نضيف أوبشن جروب</p>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">و نملي بيانات الجروب زي الصورة و نضغط حفظ</p>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">بعد كد نضغط باك هيكون ضهر عندنا الأوبشن جروب و نضغط علي علامة الزائد عشان نضيف أوبشنز</p>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">نبدأ نملي البيانات زي الصورة</p>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <p align="center">يجب مراعاة</p>
