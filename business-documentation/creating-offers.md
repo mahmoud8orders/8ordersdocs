@@ -18,7 +18,7 @@
 
 <p align="right">أول حاجة بنعمل كاتيجوري جديد بإسم العرض و عشان نعمل كدة أول حاجة هندخل علي شاشة المكان الرئيسية و نضغط علي المنيو</p>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">كدة هندخل علي صفحة التحكم في المنيو و من هنا هنضغط علي علامة الزائد عشان نضيف كاتيجوري</p>
 
@@ -110,8 +110,6 @@
 
 <figure><img src="../.gitbook/assets/صنف 2.jpg" alt=""><figcaption></figcaption></figure>
 
-<p align="right">بعد الحفظ هتظهر الشاشة دي هنضغط علي التفاصيل عشان نضيف أوبشن </p>
+<p align="right">بعد عمل الصنف باسم العرض يتم نسخ الأصناف اللتي يشملها العرض و إضافتها في كاتيجوري الأوبشنز و تفعيلها كأوبشنز في العرض</p>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"></p>
+<p align="right">لمعرفة كيفية إضافة اوبشنز لصنف برجاء مراجعة  <a data-mention href="adding-options.md">adding-options.md</a></p>
