@@ -80,3 +80,7 @@ If the customer objects to the duration, please inform them:
 <p align="right"> </p>
 {% endcolumn %}
 {% endcolumns %}
+
+<h3 align="right">الشات الصامت</h3>
+
+<p align="right">في حالة دخول شات و عدم رد العميل يتم إرسال الجريتنج مرة أخري ثم الكلوزنج في خلال دقيقة</p>

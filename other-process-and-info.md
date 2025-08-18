@@ -30,7 +30,7 @@
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<h3 align="right">قوارير و كراتين المياه</h3>
+<h2 align="right">قوارير و كراتين المياه</h2>
 
 <p align="right">عند طلب العميل قوارير مياه 19 لتر او كراتين مياه لازم نعمل حساب إن</p>
 
@@ -42,7 +42,7 @@
 
 <p align="right">و في المرات القادمة يرجي مراعاة الحد الأقصي </p>
 
-<h3 align="right">تبليغ الدواجن</h3>
+<h2 align="right">تبليغ الدواجن</h2>
 
 <p align="right">عند استقبال أوردر دواجن يتم إتباع الخطوات التالية</p>
 
