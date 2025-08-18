@@ -84,3 +84,7 @@ If the customer objects to the duration, please inform them:
 <h3 align="right">الشات الصامت</h3>
 
 <p align="right">في حالة دخول شات و عدم رد العميل يتم إرسال الجريتنج مرة أخري ثم الكلوزنج في خلال دقيقة</p>
+
+<h3 align="right">الشكوي من خطأ متكرر</h3>
+
+<p align="right">في حالة شكوي العميل أن الخطأ متكرر يتم طلب رقم أوردر حدثت فيه المشكلة</p>
