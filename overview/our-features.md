@@ -8,7 +8,7 @@ icon: align-justify
 
 {% columns %}
 {% column width="50%" %}
-Greeting Script for incoming customer call:\
+Greeting Script for incoming customer call or Chat:\
 \- Good (morning – Afternoon – Evening) 8Orders this is, ×××× How can I help you?\
 Greeting Script for outgoing customer call:\
 \- Good (morning – Afternoon – Evening) Mr./Mrs. ××××, this is ×××× from 8Orders, I’m calling you regarding your order from ××××.\
@@ -17,7 +17,7 @@ Closing script:\
 {% endcolumn %}
 
 {% column %}
-<p align="right">نص التحية عند استقبال مكالمة العميل:<br>- صباح أو مساء الخير ايت أوردرز ×××× مع حضرتك إزاي أقدر اساعدك؟<br>نص التحية عند عمل مكالمة للعميل:<br>- صباح أو مساء الخير أستاذ أو أستاذة ×××× مع حضرتك ×××× من ايت أوردرز بتواصل معاك بخصوص طلبك من ×××××.<br>نص الختام:<br>- شكرا لأختيارك ايت أوردرز.</p>
+<p align="right">نص التحية عند استقبال مكالمة أو شات العميل:<br>- صباح أو مساء الخير ايت أوردرز ×××× مع حضرتك إزاي أقدر اساعدك؟<br>نص التحية عند عمل مكالمة للعميل:<br>- صباح أو مساء الخير أستاذ أو أستاذة ×××× مع حضرتك ×××× من ايت أوردرز بتواصل معاك بخصوص طلبك من ×××××.<br>نص الختام:<br>- شكرا لأختيارك ايت أوردرز.</p>
 {% endcolumn %}
 {% endcolumns %}
 
