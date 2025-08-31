@@ -85,6 +85,8 @@
   * [عدم وجود كاش مع العميل لدفع الطلب](almshakl/adm-wjwd-kash-ma-alamyl-ldfa-altlb.md)
 * [Other Process and Info](other-process-and-info.md)
 * [Chat related Processes](chat-related-processes.md)
+* [الكواليتي](alkwalyty/README.md)
+  * [شيت الكواليتي](alkwalyty/shyt-alkwalyty.md)
 * [مراجعة الريفيو](mrajah-alryfyw.md)
 * [🤵‍♂️ Business Documentation](business-documentation/README.md)
   * [Vendor creation](business-documentation/vendor-creation.md)
