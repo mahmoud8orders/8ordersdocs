@@ -57,27 +57,27 @@ The service fee is calculated as 5% of the total purchase amount before any disc
 
 {% columns %}
 {% column width="50%" %}
-Once the order is cancelled, the amount is automatically refunded to your app wallet, and you can use it immediately for any new order.
-
-If you prefer the amount to be refunded to your bank account, I can initiate the refund ASAP and share a screenshot for your reference. However, please note that the amount might take from 7 to 14 working days to reflect in your bank account.
+Once the order is cancelled, the amount is automatically refunded to your original payment method,  However, please note that the amount might take from 7 to 14 working days to reflect in your original payment method .and we can transfer it to the app wallet if you would like to use it immediately for any new order .
 
 If the customer objects to the duration, please inform them:
 
-“Unfortunately, this is a standard banking procedure that is beyond our control. If you'd like to use the amount immediately, it's already available in your app wallet."
+“Unfortunately, this is a standard banking procedure that is beyond our control.&#x20;
+
+
 {% endcolumn %}
 
 {% column %}
-<p align="right">يا فندم، بمجرد ما الأوردر بيتلغي، المبلغ بيرجع تلقائيًا لمحفظة التطبيق، وتقدر تستخدمه في أي أوردر تاني على طول</p>
+<p align="right">يا فندم، بمجرد ما الأوردر بيتلغي، المبلغ بيرجع تلقائيًا لوسيلة الدفع المستخدمة و المبلغ هيظهر في وسيلة الدفع المستخدمة من 7 ل 14 يوم عمل ، ولكن لو حضرتك حابب نحوله لمحفظة التطبيق عشان تقدر تستخدمه في أي أوردر تاني على طول فده هيكون متاح</p>
 
-<p align="right">لو العميل حابب يرجع للحساب البنكي و طلب انه يرجع للبنك هنوضحله</p>
+<p align="right">لو العميل حابب المبلغ يرجع للمحفظة لن يتم إتخاذ أي إجراء من ناحيتنا</p>
 
-<p align="right"> لو حضرتك حابب المبلغ يرجع لحسابك البنكي، من خلالي هيرجع في اسرع وقت وهبعت لحضرتك سكرين بالريفند ، لكن المبلغ ممكن يظهر في حسابك البنكي من 7 ل 14 يوم عمل </p>
+<p align="right"> لو العميل حابب المبلغ يرجع لوسيلة الدفع المستخدمة هيتم عمل الريفند وقتها و هيتم إبلاغ العميل إن الإجراء تم بالفعل و نرسله سكرين شوت من العملية</p>
+
+<p align="right">لو ظهر خطأ يتم مراجعة رصيد المحفظة و هيستوري العميل عشان نعرف المشكلة من فين بالظبط و بيتم إبلاغ العميل بإنه سيتم مراجعة حالة التحويل و معاودة التواصل معه</p>
 
 <p align="right">لو العميل اعترض على المدة بنبلغه</p>
 
-<p align="right">للأسف يا فندم، دي إجراءات بنكية خارجة عن إرادتنا.لو حضرتك حابب تستخدم المبلغ هو بالفعل موجود ع المحفظه تقدر تستخدمه حالا</p>
-
-<p align="right"> </p>
+<p align="right">للأسف يا فندم، دي إجراءات بنكية خارجة عن إرادتنا. </p>
 {% endcolumn %}
 {% endcolumns %}
 
