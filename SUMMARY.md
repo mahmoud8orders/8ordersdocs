@@ -69,7 +69,7 @@
     * [أسباب اخرى](altawydhat/asbab-altawydhat/asbab-akhra.md)
   * [إيداع المبلغ في الحساب البنكي](altawydhat/iydaa-almblgh-fy-alhsab-albnky.md)
 * [عناوين التجار](anawyn-altjar/README.md)
-  * [الغردقة](anawyn-altjar/alghrdqh.md)
+  * [الغردقة;l](anawyn-altjar/alghrdqh-l.md)
   * [أسيوط](anawyn-altjar/asywt.md)
 * [🍞 مخبز الباشا](mkhbz-albasha.md)
 * [🕑 البروسيس تايم](albrwsys-taym.md)
