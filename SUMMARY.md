@@ -89,6 +89,7 @@
   * [شيت الكواليتي](alkwalyty/shyt-alkwalyty.md)
 * [مراجعة الريفيو](mrajah-alryfyw.md)
 * [🤵‍♂️ Business Documentation](business-documentation/README.md)
+  * [Merchant go live cycle](business-documentation/merchant-go-live-cycle.md)
   * [Vendor creation](business-documentation/vendor-creation.md)
   * [Adding Vendor's Menu](business-documentation/adding-vendors-menu.md)
   * [Adding Options](business-documentation/adding-options.md)
