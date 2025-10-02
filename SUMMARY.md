@@ -84,6 +84,7 @@
   * [الطلب غلط](almshakl/altlb-ghlt.md)
   * [عدم وجود كاش مع العميل لدفع الطلب](almshakl/adm-wjwd-kash-ma-alamyl-ldfa-altlb.md)
 * [Other Process and Info](other-process-and-info.md)
+* [أكواد الخصم](akwad-alkhsm.md)
 * [Chat related Processes](chat-related-processes.md)
 * [الكواليتي](alkwalyty/README.md)
   * [شيت الكواليتي](alkwalyty/shyt-alkwalyty.md)
