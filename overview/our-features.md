@@ -34,6 +34,8 @@ Before ending any call and saying the closing script we need to check with the c
 
 {% column %}
 <p align="right">قبل ما ننهي اي مكالمة و نقول نص الختام لازم نسأل العميل لو محتاج اي مساعدة إضافية بأي صيغة من الصيغ دي:<br>- أي استفسار اخر؟<br>- هل في اي شيء اخر اقدر اساعد حضرتك فيه؟<br>- هل حضرتك حابب تستفسر عن شيء اخر؟</p>
+
+<p align="right">في حالة مكالمة تاجر :<br>هل حابب أوضحلك اي شيء اخر.<br>هل الطلب كدة واضح  (في حالة تبليغ الطلب)<br></p>
 {% endcolumn %}
 {% endcolumns %}
 
