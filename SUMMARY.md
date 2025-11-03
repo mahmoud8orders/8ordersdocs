@@ -93,6 +93,7 @@
     * [Lead Stage](business-documentation/merchant-go-live-cycle-leads/lead-stage.md)
   * [Merchant go live cycle - Deals](business-documentation/merchant-go-live-cycle-deals.md)
   * [Vendor creation](business-documentation/vendor-creation.md)
+  * [Data Entry Standard](business-documentation/data-entry-standard.md)
   * [Adding Vendor's Menu](business-documentation/adding-vendors-menu.md)
   * [Adding Options](business-documentation/adding-options.md)
   * [Adding products' images](business-documentation/adding-products-images.md)
