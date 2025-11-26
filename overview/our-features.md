@@ -59,27 +59,65 @@ The service fee is calculated as 5% of the total purchase amount before any disc
 
 {% columns %}
 {% column width="50%" %}
-Once the order is cancelled, the amount is automatically refunded to your original payment method,  However, please note that the amount might take from 7 to 14 working days to reflect in your original payment method .and we can transfer it to the app wallet if you would like to use it immediately for any new order .
+**Customer:** The order was cancelled and I had already paid online. I want to know where my money is.
 
-If the customer objects to the duration, please inform them:
+**Agent:** I sincerely apologize, sir, for what happened. Please allow me to inform you that once an order is cancelled, the amount is automatically deposited into your in-app wallet. This is to make it easier for you in case you wish to use it for another order.
 
-“Unfortunately, this is a standard banking procedure that is beyond our control.&#x20;
+**Customer:** Alright, but I want my money returned to my bank account or Vodafone Cash wallet.
+
+**Agent:** I apologize once again, sir, but allow me to check with the responsible manager to see if this procedure is possible. Please give me one minute.
+
+**Customer:** Go ahead.
+
+_(The customer is left for one minute, then the agent returns.)_
+
+**Agent:** Thank you very much for waiting, and I apologize for any delay.
+
+**Customer:** Go ahead.
+
+**Agent:** I checked with the responsible manager and an exception has been made for you since you are a valued 8Orders customer. The amount will be refunded to the original payment method, and I will send you a confirmation once it has been processed.\
+Before I proceed with the refund, allow me to clarify that although we process the transaction on our side immediately, due to banking procedures it may take up to 14 days to appear in your account. Unfortunately, this part is beyond our control.\
+Would you like me to proceed with the refund?
+
+**Customer:** Thank you, go ahead. \
+&#xNAN;_(The refund is processed.)_
+
+**Customer:** Why 14 days? That sounds like a scam.
+
+**Agent:** I sincerely apologize again, sir, but as I mentioned earlier, this is an exceptional case for you. Fourteen days is the maximum timeframe, though in most cases it appears sooner. However, the maximum is set at 14 days due to banking policies and procedures. I will send you a screenshot confirming that the transfer has been completed from our side.\
+Would you like me to proceed with the refund?
 
 
 {% endcolumn %}
 
 {% column %}
-<p align="right">يا فندم، بمجرد ما الأوردر بيتلغي، المبلغ بيرجع تلقائيًا لوسيلة الدفع المستخدمة و المبلغ هيظهر في وسيلة الدفع المستخدمة من 7 ل 14 يوم عمل ، ولكن لو حضرتك حابب نحوله لمحفظة التطبيق عشان تقدر تستخدمه في أي أوردر تاني على طول فده هيكون متاح</p>
+<p align="right">العميل: الأوردر أتلغي و انا كنت دافع أونلاين عايز أعرف فلوسي فين؟</p>
 
-<p align="right">لو العميل حابب المبلغ يرجع للمحفظة لن يتم إتخاذ أي إجراء من ناحيتنا</p>
+<p align="right">الموظف: انا بعتذر ليك جدا يا فندم علي الموقف ده و اسمحلي أبلغك إن بمجرد إلغاء الطلب بيتم إيداع المبلغ مباشرة في محفظة التطبيق الخاصة بحضرتك و ده تسهيلا عشان لو حابب تستخدمها في أوردر تاني.</p>
 
-<p align="right"> لو العميل حابب المبلغ يرجع لوسيلة الدفع المستخدمة هيتم عمل الريفند وقتها و هيتم إبلاغ العميل إن الإجراء تم بالفعل و نرسله سكرين شوت من العملية</p>
+<p align="right">العميل: طيب أنا عايز فلوسي ترجع علي (البنك او المحفظة فودافون كاش)</p>
 
-<p align="right">لو ظهر خطأ يتم مراجعة رصيد المحفظة و هيستوري العميل عشان نعرف المشكلة من فين بالظبط و بيتم إبلاغ العميل بإنه سيتم مراجعة حالة التحويل و معاودة التواصل معه</p>
+<p align="right">الموظف: أنا بكرر إعتذاري ليك يا فندم و لكن خليني أرجع للمدير المسئول أشوف لو في إمكانية للإجراء ده استأذنك تنتظرني دقيقة.</p>
 
-<p align="right">لو العميل اعترض على المدة بنبلغه</p>
+<p align="right">العميل: اتفضل.</p>
 
-<p align="right">للأسف يا فندم، دي إجراءات بنكية خارجة عن إرادتنا. </p>
+<p align="right">يتم ترك العميل لمدة دقيقة ثم العودة ليه</p>
+
+<p align="right">الموظف: شكرا جدا علي إنتظارك و بعتذرلك عن أي تأخير</p>
+
+<p align="right">العميل: اتفضل.</p>
+
+<p align="right">الموظف: أنا رجعت للمدير المسئول و تم عمل إستثناء لحضرتك عشان انت عميل مميز ل8Orders و هيتم إرجاع المبلغ علي وسيلة الدفع المستخدمة و هرسل لحضرتك تأكيد إن العملية تمت من خلالي ولكن قبل ما أعمل الريفند إسمحلي أوضحلك بس إن العملية بتتم من خلالنا في نفس الوقت و لكن بسبب الإجراءات البنكية هتظهر في حسابك خلال مدة أقصاها 14 يوم و للأسف ده خارج عن إرادتنا.</p>
+
+<p align="right">هل انت حابب إني أكمل الريفند ؟</p>
+
+<p align="right">العميل: شكرا اتفضل (يتم عمل الريفند).</p>
+
+<p align="right">العميل: ليه يعني 14 يوم ده اسمه نصب.</p>
+
+<p align="right">الموظف:  أنا بكرر إعتذاري لحضرتك و لكن ده زي ما وضحت قبل كدة إستثناء لحضرتك و المدة دي هي الحد الأقصي ولكن في أغلب الوقت بتكون قبل كدة و لكن كحد أقصي بيكون 14 يوم بسبب الإجراءات و السياسات البنكية و من خلالي هرسلك بيرنت سكرين إن عملية التحويل تمت من خلالنا.</p>
+
+<p align="right">هل حابب إني أكمل الريفند ؟</p>
 {% endcolumn %}
 {% endcolumns %}
 
