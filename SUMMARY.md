@@ -99,3 +99,8 @@
   * [Adding Options](business-documentation/adding-options.md)
   * [Adding products' images](business-documentation/adding-products-images.md)
   * [Creating Offers](business-documentation/creating-offers.md)
+* [Accounting QA Guide](accounting-qa-guide/README.md)
+  * [قواعد عامة لشات التجار مع الحسابات](accounting-qa-guide/qwaad-aamh-lshat-altjar-ma-alhsabat.md)
+  * [أجزاء أو أقسام المحادثة](accounting-qa-guide/ajzaa-aw-aqsam-almhadthh.md)
+  * [الردود الجاهزة](accounting-qa-guide/alrdwd-aljahzh.md)
+  * [نصائح الجودة](accounting-qa-guide/nsaeh-aljwdh.md)
