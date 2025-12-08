@@ -31,7 +31,7 @@ icon: circle-sort-down
 {% endhint %}
 
 {% hint style="success" %}
-<p align="center">في حالة تم تعويض العميل بالفعل من قبل يتم الرجوع للشيفت</p>
+<p align="center">في حالة تم تعويض العميل بالفعل من قبل علي نفس الطلب بسبب التأخير يتم الرجوع للشيفت</p>
 {% endhint %}
 
 <h2 align="center">حساب خطأ</h2>
