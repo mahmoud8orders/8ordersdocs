@@ -43,13 +43,32 @@ Before ending any call and saying the closing script we need to check with the c
 
 {% columns %}
 {% column %}
-The service fee is calculated as 5% of the total purchase amount before any discounts are applied, with a maximum limit of 29.99 EGP and a minimum of 5.99 EGP. This fee supports us in continuously providing a high-quality experience on the app.
+### **All Governorates**
+
+The service fee is calculated as **5% of the total purchases before any discounts**, with a **maximum of EGP 24.99** and a **minimum of EGP 4.99**.
+
+### **8Mart**
+
+For **8Mart**, the service fee is **5% of the total purchases before any discounts**, with a **maximum of EGP 9.99** and a **minimum of EGP 4.99**.
+
+These fees help us continuously provide you with a premium experience on the app.
+
+**If the customer asks or is not convinced:**\
+The service fees help us offer you the best shopping experience on the app by reducing delivery fees and providing strong offers from the partners available on the platform.
 {% endcolumn %}
 
 {% column %}
-<p align="right">رسوم الخدمة بتتحسب بنسبة 5% من إجمالي المشتريات قبل أي خصومات، بس بحد أقصى 29.99 جنيه وحد أدنى 5.99 جنيه. الرسوم دي بتساعدنا نقدم لك تجربة مميزة على التطبيق بشكل مستمر</p>
+<h3 align="center">كل المحافظات</h3>
 
-<p align="right">في حالة العميل استفسر أو مش مقتنع</p>
+<p align="right">رسوم الخدمة بتتحسب بنسبه 5% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 24.99 جنيه و حد ادني 4.99</p>
+
+<h3 align="center">8Mart</h3>
+
+<p align="right">بالنسبه ل8مارت - نسبه 5% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 9.99 جنيه و حد ادني 4.99.</p>
+
+<p align="right"> الرسوم دي بتساعدنا نقدم لك تجربة مميزة على التطبيق بشكل مستمر</p>
+
+<p align="right"><strong>في حالة العميل استفسر أو مش مقتنع</strong></p>
 
 <p align="right">مصاريف الخدمه دي بتساعدنا اننا نقدم لحضرتك افضل تجربه شراء علي التطبيق من خلال تخفيض لأسعار التوصيل و توفير عروض قويه من الأماكن اللي معانا علي التطبيق </p>
 {% endcolumn %}
