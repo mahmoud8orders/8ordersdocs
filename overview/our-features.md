@@ -45,11 +45,11 @@ Before ending any call and saying the closing script we need to check with the c
 {% column %}
 ### **All Governorates**
 
-The service fee is calculated as **5% of the total purchases before any discounts**, with a **maximum of EGP 24.99** and a **minimum of EGP 4.99**.
+The service fee is calculated as **6% of the total purchases before any discounts**, with a **maximum of EGP 24.99** and a **minimum of EGP 4.99**.
 
 ### **8Mart**
 
-For **8Mart**, the service fee is **5% of the total purchases before any discounts**, with a **maximum of EGP 9.99** and a **minimum of EGP 4.99**.
+For **8Mart**, the service fee is **6% of the total purchases before any discounts**, with a **maximum of EGP 9.99** and a **minimum of EGP 4.99**.
 
 These fees help us continuously provide you with a premium experience on the app.
 
@@ -60,11 +60,11 @@ The service fees help us offer you the best shopping experience on the app by re
 {% column %}
 <h3 align="center">كل المحافظات</h3>
 
-<p align="right">رسوم الخدمة بتتحسب بنسبه 5% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 24.99 جنيه و حد ادني 4.99</p>
+<p align="right">رسوم الخدمة بتتحسب بنسبه 6% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 24.99 جنيه و حد ادني 4.99</p>
 
 <h3 align="center">8Mart</h3>
 
-<p align="right">بالنسبه ل8مارت - نسبه 5% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 9.99 جنيه و حد ادني 4.99.</p>
+<p align="right">بالنسبه ل8مارت - نسبه 6% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 9.99 جنيه و حد ادني 4.99.</p>
 
 <p align="right"> الرسوم دي بتساعدنا نقدم لك تجربة مميزة على التطبيق بشكل مستمر</p>
 
@@ -80,11 +80,11 @@ The service fees help us offer you the best shopping experience on the app by re
 {% column width="50%" %}
 **Customer:** The order was cancelled and I had already paid online. I want to know where my money is.
 
-**Agent:** I sincerely apologize, sir, for what happened. Please allow me to inform you that once an order is cancelled, the amount is automatically deposited into your in-app wallet. This is to make it easier for you in case you wish to use it for another order.
+**Agent:** I sincerely apologise, sir, for what happened. Please allow me to inform you that once an order is cancelled, the amount is automatically deposited into your in-app wallet. This is to make it easier for you in case you wish to use it for another order.
 
 **Customer:** Alright, but I want my money returned to my bank account or Vodafone Cash wallet.
 
-**Agent:** I apologize once again, sir, but allow me to check with the responsible manager to see if this procedure is possible. Please give me one minute.
+**Agent:** I apologise once again, sir, but allow me to check with the responsible manager to see if this procedure is possible. Please give me one minute.
 
 **Customer:** Go ahead.
 
