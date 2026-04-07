@@ -12,3 +12,7 @@
 
 <table data-header-hidden><thead><tr><th width="92.4783935546875" align="center" valign="middle"></th><th width="462.86962890625" align="center" valign="middle"></th><th align="center" valign="middle"></th></tr></thead><tbody><tr><td align="center" valign="middle">#</td><td align="center" valign="middle">الإجراء</td><td align="center" valign="middle">المسؤول</td></tr><tr><td align="center" valign="middle">1</td><td align="center" valign="middle">المندوب يبلغ التيم فوراً</td><td align="center" valign="middle">المندوب</td></tr><tr><td align="center" valign="middle">2</td><td align="center" valign="middle">يتم عمل تم التوصيل</td><td align="center" valign="middle">CS Agent أو المندوب</td></tr><tr><td align="center" valign="middle">3</td><td align="center" valign="middle">يتم التبليغ علي قناة الديسكورد لتيم البيزنس و عمل تيكت بيتركس لتحميل التاجر كامل قيمة الطلب (شاملة مصاريف التوصيل و الخدمة)</td><td align="center" valign="middle">CS Agent</td></tr></tbody></table>
 
+{% hint style="warning" %}
+<p align="center">في حالة إن العميل تواصل بينا و طلب إلغاء الطلب عشان هو استلمه من التاجر يتم التبليغ علي قناة الديسكورد لتيم البيزنس و عمل تيكت بيتركس لتحميل التاجر كامل قيمة الطلب (شاملة مصاريف التوصيل و الخدمة) </p>
+{% endhint %}
+
