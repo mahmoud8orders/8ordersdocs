@@ -43,9 +43,13 @@ Before ending any call and saying the closing script we need to check with the c
 
 {% columns %}
 {% column %}
-### **All Governorates**
+### Assuit
 
-The service fee is calculated as **6% of the total purchases before any discounts**, with a **maximum of EGP 24.99** and a **minimum of EGP 4.99**.
+The service fee is calculated as **5% of the total purchases before any discounts**, with a **maximum of EGP 24.99** and a **minimum of EGP 4.99**.
+
+### Hurghada
+
+The service fee is calculated as &#x36;**% of the total purchases before any discounts**, with a **maximum of EGP 29.99** and a **minimum of EGP 4.99**.
 
 ### **8Mart**
 
@@ -58,9 +62,15 @@ The service fees help us offer you the best shopping experience on the app by re
 {% endcolumn %}
 
 {% column %}
-<h3 align="center">كل المحافظات</h3>
+<h3 align="center">أسيوط</h3>
 
-<p align="right">رسوم الخدمة بتتحسب بنسبه 6% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 24.99 جنيه و حد ادني 4.99</p>
+<p align="right">رسوم الخدمة بتتحسب بنسبه 5% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 24.99 جنيه و حد ادني 4.99</p>
+
+<p align="right"></p>
+
+<h3 align="center">الغردقة</h3>
+
+<p align="right">رسوم الخدمة بتتحسب بنسبه 6% من اجمالي المشتريات قبل اي خصومات بس بحد اقصي 29.99 جنيه و حد ادني 4.99</p>
 
 <h3 align="center">8Mart</h3>
 
