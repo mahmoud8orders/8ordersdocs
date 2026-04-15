@@ -84,6 +84,7 @@
   * [الطلب غلط](almshakl/altlb-ghlt.md)
   * [عدم وجود كاش مع العميل لدفع الطلب](almshakl/adm-wjwd-kash-ma-alamyl-ldfa-altlb.md)
   * [المطعم سلم الطلب للعميل](almshakl/almtam-slm-altlb-llamyl.md)
+  * [مشكلة هايجين](almshakl/mshklh-hayjyn.md)
 * [Other Process and Info](other-process-and-info.md)
 * [Vouchers - القسايم](vouchers-alqsaym.md)
 * [Chat related Processes](chat-related-processes.md)
