@@ -112,6 +112,7 @@
     * [8. ردود التيم على المتاجر — SCRIPTS](business-documentation/store-management-process/8.-rdwd-altym-ala-almtajr-scripts.md)
     * [10. مرجع سريع — تايتلات بيتركس](business-documentation/store-management-process/10.-mrja-srya-taytlat-bytrks.md)
     * [قواعد عامة](business-documentation/store-management-process/qwaad-aamh.md)
+  * [Merchant Review Score](business-documentation/merchant-review-score.md)
 * [Merchant web Reporting Documentation](merchant-web-reporting-documentation/README.md)
   * [01- Rejected Orders](merchant-web-reporting-documentation/01-rejected-orders.md)
   * [02- Merchants Items Sales](merchant-web-reporting-documentation/02-merchants-items-sales.md)
