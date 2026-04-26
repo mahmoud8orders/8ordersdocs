@@ -12,7 +12,11 @@
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>خطوات إضافة متجر - 1</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/التاجر.png" alt=""><figcaption><p>خيارات المتجر في التحديث الأخير</p></figcaption></figure>
+
 <p align="right">يجب الأخذ في الأعتبار:</p>
+
+<p align="center">Autobusy orders count:<br>عدد الأوردرات الملغية قبل خروج المطعم بيزي بشكل تلقائي من النظام<br>تكون 1 عند تسجيل المطعم</p>
 
 <p align="center">Using SKU</p>
 
