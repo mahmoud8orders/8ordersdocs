@@ -6,17 +6,17 @@
 
 <p align="right">بعد تحميل التطبيق تظهر إيقونة التطبيق علي شاشة الهاتف</p>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">عند الضغط عليها لأول مرة تظهر شاشة التطبيق الترحيبية</p>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="194"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="194"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="195"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="195"><figcaption></figcaption></figure>
 
 <p align="right">عند التخطي تظهر شاشة تسجيل الحساب أو تسجيل الدخول</p>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">في حالة وجود حساب يتم تسجيل الدخول عن طريق كتابة رقم التليفون و كلمة السر و الضغط علي تسجيل دخول</p>
 
@@ -34,11 +34,11 @@
 
 <p align="right">الموافقة علي الشروط و الأحكام</p>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">في حالة تم الدعوة من صديق يتم اختيار هل تمت دعوتك بواسطة صديق و إدخال كود الدعوة </p>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">بعد تسجيل البيانات يتم ارسال كود تأكيد إلي رقم الهاتف المسجل و يتم إدخال الكود الفيديو يوضح خطوات التسجيل</p>
 
@@ -50,11 +50,11 @@
 
 <p align="right"> يتم تسجيل الدخول عن طريق كتابة رقم التليفون و كلمة السر و الضغط علي تسجيل دخول</p>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 <p align="right">بعد تسجيل الدخول يطلب التطبيق الدخول للموقع الجغرافي للجهاز لتحديد العنوان و عرض المتاجر الخاصة بمدينة العميل</p>
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt="" width="216"><figcaption></figcaption></figure>
 
 <p align="right">بعد السماح بإستخدام الموقع يمكن تحديد العنوان عن طريق وضع العلامة في العنوان الصحيح للدقة</p>
 

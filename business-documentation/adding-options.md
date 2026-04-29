@@ -2,37 +2,31 @@
 
 <h3 align="right">إزاي نضيف أوبشنز لصنف</h3>
 
-<p align="right">أول حاجة هنعمل كاتيجوري اسمه اوبشنز و ده هيكون في كل أوبشنز الأصناف اللي في المنيو و مش هيكون أكتف بمعني أنه مش هيظهر كاتيجوري للعميل علي الأبليكيشن</p>
+<p align="right">أول خطوة هو عمل مجموعة الأوبشنز و بتكون بالشكل ده</p>
 
-<p align="right">هندخل جوا الكاتيجوري و نعمل إضافة صنف و المهم جدا وأحنا بنضيف أصناف الأوبشنز أننا نفعل الجزء ده عشان يظهر عندي في الأوبشنز</p>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-<p align="right">بعد ما كل ألوبشنز هنرجع للمنيو و ندخل علي تفاصيل الصنف اللي محتاج يتعمله أوبشنز علي تفاصيل الحجم</p>
+<p align="right">ثانيا يتم إضافة الأوبشنز داخل الجروب كالتالي</p>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-<p align="right">بعد كدة نضغط علي الزائد هنا عشان نضيف أوبشن جروب</p>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<p align="right">بعد إضافة كل الأوبشنز نرجع للمنيو عشان نربط الأوبشنز بالأصناف كالتالي</p>
 
-<p align="right">و نملي بيانات الجروب زي الصورة و نضغط حفظ</p>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-<p align="right">بعد كد نضغط باك هيكون ضهر عندنا الأوبشن جروب و نضغط علي علامة الزائد عشان نضيف أوبشنز</p>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-<p align="right">نبدأ نملي البيانات زي الصورة</p>
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<p align="right"></p>
 
 {% hint style="warning" %}
 <p align="center">يجب مراعاة</p>
 {% endhint %}
 
-<p align="center">اختيار الأوبشن يكون من قائمة الأصناف المضافة في كاتيجور الأوبشنز الذي تم إنشاءه</p>
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<p align="center">توزيع الأوبشنز في البداية و تخطيطها بالشكل الأنسب لتجنب أي تضارب في الأسعار أو الأستخدام</p>
 
