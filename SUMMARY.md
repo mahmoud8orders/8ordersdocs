@@ -77,6 +77,7 @@
 * [وجود تاج علي العميل لتحصيل مبلغ قديم](wjwd-taj-aly-alamyl-lthsyl-mblgh-qdym.md)
 * [المشاكل](almshakl/README.md)
   * [التعامل مع شكاوي العملاء](almshakl/altaaml-ma-shkawy-alamlaa.md)
+  * [اسكريبتات للمساعدة في حالات الشكاوي](almshakl/askrybtat-llmsaadh-fy-halat-alshkawy.md)
   * [أوردر ناقص](almshakl/awrdr-naqs.md)
   * [طلب محروق](almshakl/tlb-mhrwq.md)
   * [طلب مقلوب](almshakl/tlb-mqlwb.md)
