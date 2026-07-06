@@ -12,6 +12,14 @@
 
 <p align="right">في حالة طلب الأصناف بيتم عمل توصيلة خارجية بدون تحميل علي العميل و يتم عمل تعويض داخل التوصيلة لتحميل القيمة علي المتسبب </p>
 
+<h3 align="center">في حالة الطلب من المارت</h3>
+
+<p align="right">يتم تعويض العميل بقيمة الصنف فقط بدون مصاريف التوصيل</p>
+
+<p align="right">و يتم سؤال العميل هل حضرتك حابب قيمة الصنف تنزل علي المحفظة؟</p>
+
+<p align="right">يتم عمل توصيلة عند طلب العميل</p>
+
 <p align="right"></p>
 
 <figure><img src="../../.gitbook/assets/House searching-cuate.png" alt="" width="375"><figcaption></figcaption></figure>
