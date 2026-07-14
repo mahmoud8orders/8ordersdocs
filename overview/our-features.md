@@ -21,7 +21,7 @@ Closing script:\
 {% endcolumn %}
 {% endcolumns %}
 
-![](../.gitbook/assets/Smile.jpg)
+<img src="../.gitbook/assets/Smile.jpg" alt="" width="375">
 
 <h3 align="right">عرض المساعدة الإضافية</h3>
 
