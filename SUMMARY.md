@@ -73,8 +73,6 @@
 * [🍞 مخبز الباشا](mkhbz-albasha.md)
 * [🕑 البروسيس تايم](albrwsys-taym.md)
 * [البيزي و الإند](albyzy-w-alind.md)
-* [🥕 تجهيز الخضار](tjhyz-alkhdhar.md)
-* [وجود تاج علي العميل لتحصيل مبلغ قديم](wjwd-taj-aly-alamyl-lthsyl-mblgh-qdym.md)
 * [المشاكل](almshakl/README.md)
   * [التعامل مع شكاوي العملاء](almshakl/altaaml-ma-shkawy-alamlaa.md)
   * [اسكريبتات للمساعدة في حالات الشكاوي](almshakl/askrybtat-llmsaadh-fy-halat-alshkawy.md)
