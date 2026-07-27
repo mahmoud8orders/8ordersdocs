@@ -22,11 +22,11 @@
 
 <p align="right">بعد كدة نضغط علي إضافة عرض</p>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">هندخل شاشة إضافة عرض و الأول نملي البيانات اللي علي الشمال الأول و بعدين نضيف الأصناف اللي هتكون في العرض زي الصورة</p>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="right">بعد كدة نضيف صورة العرض و بعدين نضغط إضافة الأصناف و نعمل الخطوات اللي في الصورة<br>مع مراعاة التالي<br>في حالة إن العرض نسبة يمكن أختيار كل الأصناف مرة واحدة<br>في حالة أن العرض خصم مبلغ يتم اختيار أيتم واحد فقط كل مرة </p>
 

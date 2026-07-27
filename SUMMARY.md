@@ -22,7 +22,7 @@
     * [قسم الأصناف المطلوبة](overview/aladmn/shashh-tfasyl-altlb/qsm-alasnaf-almtlwbh.md)
     * [قسم فاتورة الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-fatwrh-altlb.md)
     * [قسم خطوات الطلب](overview/aladmn/shashh-tfasyl-altlb/qsm-khtwat-altlb.md)
-  * [🚴‍♂️ عمل توصيلة خارجية](overview/aladmn/aml-twsylh-kharjyh.md)
+  * [🚴‍♂️ عمل توصيلة إضافية](overview/aladmn/aml-twsylh-idhafyh.md)
   * [البيزي و الإند](overview/aladmn/albyzy-w-alind.md)
   * [Order History](overview/aladmn/order-history.md)
 * [📲 تطبيق العميل](overview/ttbyq-alamyl/README.md)
