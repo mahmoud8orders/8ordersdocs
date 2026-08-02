@@ -23,3 +23,45 @@
 <h3 align="right">نهاية الشات</h3>
 
 <p align="right"><br>“بشكرك جدًا يا أفندم على صبر حضرتك وتفهمك، ونتمنى إن التجربة الجاية تكون أفضل بكثير.”<br>“آسفين مرة تانية على الإزعاج، وأي وقت حضرتك تحتاج أي مساعدة هنكون تحت أمر حضرتك.”<br>“شكرًا جدًا لذوق وتعاون حضرتك، ونتمنى نكون قدرنا نساعد حضرتك بالشكل المطلوب.”<br>“أتمنى أكون قدرت أوضح وأساعد حضرتك يا أفندم، وتشرفنا بخدمة حضرتك دائمًا.”</p>
+
+#### Receiving the Complaint — with more respect and empathy
+
+* "Welcome, and I sincerely apologize for any inconvenience caused. I'll personally follow up with you step by step until we resolve this."
+* "I completely understand your frustration, and you're absolutely right to feel that way — your time is very important to us."
+* "Thank you for explaining the issue clearly. Please allow me to look into it right away."
+* "I really appreciate your patience with this situation, and I'll do everything I can to help you."
+
+#### If the customer is angry or upset
+
+* "You have every right to be upset, and I sincerely apologize for this experience."
+* "I completely understand your frustration with what happened, and I promise we'll work this out in a way that satisfies you."
+* "What happened shouldn't have caused you this kind of trouble — you're right to be frustrated with us."
+* "I truly feel for the inconvenience this has caused you. Let me personally follow up on this right now."
+
+#### Acknowledging the customer's time
+
+* "I know your time is valuable, so I'll do my best to resolve this as quickly as possible."
+* "Thank you so much for your patience and understanding — we really value your time."
+* "I won't keep you waiting long — just give me a moment to review the details and I'll get right back to you."
+* "I understand the wait has been frustrating, and I apologize again for the delay."
+
+#### While following up
+
+* "I'm personally following up on this right now, and I'll get back to you with a clear update as soon as possible."
+* "Please give me just one moment to reach the relevant department, and I'll be right back with you."
+* "I want to assure you this is currently being handled as a top priority."
+* "Thank you so much for your cooperation and patience — I'm here with you until this is fully resolved."
+
+#### If the issue is an order delay
+
+* "I sincerely apologize for the delay in your order, and I completely understand how frustrating the wait must have been."
+* "You certainly didn't expect it to take this long, and you're right to be upset with us."
+* "I understand your concern about the order's quality given the delay — I'm looking into this right now."
+* "I apologize again for this experience, and I hope we can make it up to you."
+
+#### Closing the chat
+
+* "Thank you so much for your patience and understanding — we hope your next experience will be much better."
+* "We're sorry again for the inconvenience, and we're always here whenever you need help."
+* "Thank you for your kindness and cooperation — we hope we were able to help in the way you needed."
+* "I hope I was able to clarify things and assist you well. It's always our pleasure to serve you."
